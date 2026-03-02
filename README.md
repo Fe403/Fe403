@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou André (Fe)
 
-<!--
-**Fe403/Fe403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação - 3º período  
+💻 Focado em evoluir em programação, finanças e crescimento pessoal  
+🚀 Buscando me tornar minha melhor versão todos os dias  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou aprendendo
+
+- Java/ Java script
+- Git & GitHub
+- Dart
+- Flutter
+- HTML & CSS
+
+---
+
+## 📈 Objetivos para 2026
+
+- Melhorar minha lógica de programação
+- Criar projetos próprios
+- Contribuir em projetos open sourcez
+
+---
