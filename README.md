@@ -1,67 +1,80 @@
 <div align="center">
-  <img width="100%" alt="Ondas superiores" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0,0D1117,1a1a2e&fontColor=ffffff&section=header"/>
 </div>
 
 <div align="center">
-  <img alt="Digitação de boas-vindas" src="https://readme-typing-svg.demolab.com?font=Pixel&color=000000&width=900&size=22&center=true&lines=Seja+Bem+Vindo!;Sou+de+Sergipe;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo!+👋;Sou+de+Sergipe+🌴;Estudante+de+Ciência+da+Computação+🎓;Programador+Frontend+%26+Backend+em+formação+🚀"/>
 </div>
+
+<br/>
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img alt="Resumo do perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe403&theme=nord_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe403&theme=nord_dark" width="100%"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td><img alt="Estatísticas" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fe403&theme=nord_dark"/></td>
-    <td><img alt="Linguagens mais usadas" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fe403&theme=nord_dark"/></td>
-  </tr>
-  <tr>
-    <td><img alt="Tempo produtivo" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fe403&theme=nord_dark&utcOffset=-3"/></td>
-    <td><img alt="Repositórios por linguagem" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fe403&theme=nord_dark"/></td>
-  </tr>
-</table>
+<br/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fe403&theme=nord_dark" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fe403&theme=nord_dark" width="49%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fe403&theme=nord_dark&utcOffset=-3" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fe403&theme=nord_dark" width="49%"/>
+</div>
 
 ---
 
 ## 🛠️ Habilidades & Tecnologias
 
 <div align="center">
-  <img width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-<details open align="center">
-  <summary><b>Clique para ler mais</b></summary>
-  
-  🎓 **19 anos**  
-  💻 **Ciência da Computação** - 3º período  
-  🚀 **Estudando:** Java, JavaScript, Python, HTML e CSS  
-  📈 **Objetivo:** Evolução pessoal e profissional  
-</details>
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Idade** | 19 anos |
+| 💻 **Curso** | Ciência da Computação — 3º período |
+| 🚀 **Estudando** | Java · JavaScript · Python · HTML · CSS |
+| 📈 **Objetivo** | Evolução pessoal e profissional |
+| 🌍 **Localização** | Sergipe, Brasil |
+
+</div>
 
 ---
 
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:andrefellipe676@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff"/>
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefellipe676@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fe403)
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="100%" alt="Ondas inferiores" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,0D1117&height=120&section=footer"/>
 </div>
