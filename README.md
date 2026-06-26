@@ -47,9 +47,8 @@
   <br>
   
   - 🎓 **19 anos**
-  - 💻 **Ciência da Computação** - 3º período
+  - 💻 **Ciência da Computação** - 4º período
   - 🚀 **Estudando:** Java, JavaScript, Python, HTML e CSS
-  - 📈 **Objetivo:** Evolução pessoal e profissional
   
 </details>
 
