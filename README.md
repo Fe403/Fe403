@@ -47,8 +47,9 @@
   <br>
   
   - 🎓 **19 anos**
-  - 💻 **Ciência da Computação** - 4º período
+  - 💻 **Ciência da Computação** - 3º período
   - 🚀 **Estudando:** Java, JavaScript, Python, HTML e CSS
+  - 📈 **Objetivo:** Evolução pessoal e profissional
   
 </details>
 
@@ -63,5 +64,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" alt="Ondas inferiores" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+  <img width="100%" alt="Ondas inferiores" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 </div>
