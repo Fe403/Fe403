@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img alt="Digitação de boas-vindas" src="https://readme-typing-svg.demolab.com?font=Pixel&color=000000&width=900&size=22&center=true&lines=Seja+Bem+Vindo!;Sou+de+Sergipe;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o"/>
+  <img alt="Digitação de boas-vindas" src="https://readme-typing-svg.demolab.com?font=Pixel&color=FFFFFF&width=900&size=22&center=true&lines=Seja+Bem+Vindo!;Sou+de+Sergipe;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o"/>
 </div>
 
 ---
