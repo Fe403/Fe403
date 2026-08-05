@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="assets/avatar.png" alt="Avatar André Fellipe"/>
+<img align="right" height="150" src="assets/avatar.webp" alt="Avatar André Fellipe"/>
 
 <h2 align="left">Oi Meu nome é André, E eu sou um desenvolvedor full stack em desenvolvimento, de Sergipe, Brasil.</h2>
 
