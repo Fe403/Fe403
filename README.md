@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="150" src="assets/avatar.png" alt="Avatar André Fellipe"/>
 
 <h2 align="left">Hi 👋! My name is André Fellipe, and I'm a Full Stack Developer in training, from Sergipe, Brazil.</h2>
 
