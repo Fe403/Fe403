@@ -15,7 +15,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt-BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Fe403&theme=onedark&no-frame=true&row=1&column=-1" height="150" alt="trophy graph"/>
 </div>
 
 <br clear="both">
@@ -29,8 +28,8 @@ Estudante de Ciência da Computação (4º período), construindo minha trajetó
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 <br>
