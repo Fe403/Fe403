@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt-BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Fe403&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-frame=false" height="150" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fe403&theme=onedark&no-frame=true&row=1&column=-1" height="150" alt="trophy graph"/>
 </div>
 
 <br clear="both">
