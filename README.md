@@ -24,7 +24,7 @@
 
 <h2 align="left">Oi Meu nome é André, E eu sou um desenvolvedor full stack em desenvolvimento, de Sergipe, Brasil.</h2>
 
-Estudante de Ciência da Computação (4º período), construindo minha trajetória rumo a Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro — hoje, essa curiosidade virou código.
+Estudante de Ciência da Computação (4º período), construindo minha trajetória rumo a Full Stack. Comecei pela curiosidade sem entender como as coisas funcionam por dentro — hoje, essa curiosidade virou código.
 
 <br clear="both">
 
