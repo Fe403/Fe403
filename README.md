@@ -22,7 +22,7 @@
 
 <img align="right" height="150" src="assets/avatar.png" alt="Avatar André Fellipe"/>
 
-<h2 align="left">Hi 👋! My name is André Fellipe, and I'm a Full Stack Developer in training, from Sergipe, Brazil.</h2>
+<h2 align="left">Oi Meu nome é André, E eu sou um desenvolvedor full stack em desenvolvimento, de Sergipe, Brasil.</h2>
 
 Estudante de Ciência da Computação (4º período), construindo minha trajetória rumo a Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro — hoje, essa curiosidade virou código.
 
@@ -37,9 +37,21 @@ Estudante de Ciência da Computação (4º período), construindo minha trajetó
 
 ## 🛠️ Stack
 
-**Front-end:** HTML · CSS · JavaScript
-**Back-end:** Java · Python · Node.js
-**Em consolidação:** React + Node.js — minha trilha principal rumo ao Full Stack
+<div align="center">
+
+**Front-end**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+
+**Back-end**
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,nodejs" height="45"/>
+
+**Em consolidação → Full Stack**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs" height="45"/>
+
+</div>
 
 ## 🚀 Projetos em destaque
 
