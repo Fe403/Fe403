@@ -13,7 +13,7 @@
   <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt-BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
-<img align="right" height="150" src="https://github.com/Fe403.png" alt="Avatar André Fellipe"/>
+<img align="right" height="150" src="assets/avatar.webp" alt="Avatar André Fellipe"/>
 
 ## Oi! Meu nome é André, e eu sou um desenvolvedor Full Stack em formação, de Sergipe, Brasil.
 
