@@ -27,7 +27,7 @@
 
 Oi! Meu nome é **André Fellipe** e sou desenvolvedor **Full Stack em formação**, de Sergipe, Brasil.
 
-Estudante de **Ciência da Computação** (4º período), construindo minha trajetória rumo ao Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro — hoje, essa curiosidade virou código.
+Estudante de **Ciência da Computação** (4º período), construindo minha trajetória rumo ao Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro hoje, essa curiosidade virou código.
 
 <br clear="both">
 
