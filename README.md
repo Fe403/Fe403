@@ -1,29 +1,39 @@
-<h1 align="center">Olá seja muito bem-vindo!</h1>
+<h1 align="center">Olá, seja muito bem-vindo!</h1>
+
+<p align="center">
+  <em>Desenvolvedor Full Stack em formação · Sergipe, Brasil</em>
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,py,java" height="60" alt="tech stack icons"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt-BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt-BR&mode=daily&theme=graywhite&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
 <img align="right" height="150" src="assets/avatar.webp" alt="Avatar André Fellipe"/>
 
-## Oi! Meu nome é André, e eu sou um desenvolvedor Full Stack em formação, de Sergipe, Brasil.
+## 👋 Sobre mim
 
-Estudante de Ciência da Computação (4º período), construindo minha trajetória rumo a Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro. Hoje, essa curiosidade virou código.
+Oi! Meu nome é **André Fellipe** e sou desenvolvedor **Full Stack em formação**, de Sergipe, Brasil.
+
+Estudante de **Ciência da Computação** (4º período), construindo minha trajetória rumo ao Full Stack. Comecei pela curiosidade em entender como as coisas funcionam por dentro — hoje, essa curiosidade virou código.
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 ## 🛠️ Stack
@@ -40,14 +50,11 @@ Estudante de Ciência da Computação (4º período), construindo minha trajetó
 
 **Em consolidação → Full Stack**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts" height="45"/>
 
 </div>
 
-## 🚀 Projetos em destaque
-
-- **[Portfolio](https://github.com/Fe403/Portfolio)** — meu portfólio pessoal, com dark/light mode e layout responsivo
-- **[painel-otimizacao](https://github.com/Fe403/painel-otimizacao)** — painel em Python focado em otimização de processos
+## 📊 Atividade
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Fe403/Fe403/output/snake.svg" alt="Snake animation"/>
