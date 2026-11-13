@@ -27,7 +27,7 @@
 <table align="center" border="0">
   <tr>
     <td width="400" align="center">
-      <img src="assets/avatar.webp" width="380" alt="Ilustração de um desenvolvedor programando"/>
+      <img src="assets/programação.jfif" width="380" alt="Ilustração de um desenvolvedor programando"/>
     </td>
     <td>
       <h2>👨‍💻 Sobre mim</h2>
