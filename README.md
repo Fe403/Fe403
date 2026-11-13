@@ -75,10 +75,10 @@
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Linguagens mais usadas"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Sequência de contribuições"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Estatísticas do GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=Fe403&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Sequência de contribuições"/>
+  <br/><br/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=495&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Linguagens mais usadas"/>
 </div>
 
 <!-- ============ ATIVIDADE ============ -->
