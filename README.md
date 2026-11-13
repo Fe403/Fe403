@@ -26,8 +26,8 @@
 <!-- ============ SOBRE MIM ============ -->
 <table align="center" border="0">
   <tr>
-    <td width="240" align="center">
-      <img src="assets/avatar.webp" width="220" alt="Avatar André Fellipe"/>
+    <td width="400" align="center">
+      <img src="assets/coding.jpg" width="380" alt="Ilustração de um desenvolvedor programando"/>
     </td>
     <td>
       <h2>👨‍💻 Sobre mim</h2>
