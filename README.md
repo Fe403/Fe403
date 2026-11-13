@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Fe403&locale=pt_BR&mode=daily&theme=default&hide_border=true" height="150" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=Fe403&locale=pt_BR&mode=daily&theme=graywhite&hide_border=false&border_radius=5" height="150" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -32,8 +32,8 @@ Oi! Meu nome é **André Fellipe**, sou de Sergipe, Brasil, e estudo **Ciência 
 Comecei pela curiosidade de entender como as coisas funcionam por dentro. Hoje, essa curiosidade virou código.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fe403&show_icons=true&count_private=true&theme=default&hide_border=true" height="170" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe403&layout=compact&langs_count=6&theme=default&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api?username=Fe403&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=false" height="170" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=Fe403&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="170" alt="Linguagens mais usadas"/>
 </div>
 
 ## 🛠️ Stack
