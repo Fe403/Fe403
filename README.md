@@ -5,7 +5,6 @@
 
 <h2 align="center">Sobre mim</h2>
 
-## Sobre mim
 
 Fala! Eu sou o André Fellipe, de Sergipe, estudante de Ciência da Computação e apaixonado por tecnologia. Minha jornada na programação começou pela curiosidade de entender como as coisas funcionam e, desde então, venho transformando essa curiosidade em aprendizado, projetos e novas experiências.
 
