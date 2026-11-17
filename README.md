@@ -31,8 +31,8 @@ Oi! Meu nome é **André Fellipe**, sou de Sergipe, Brasil, e estudo **Ciência 
   <a href="https://www.instagram.com/andre_fe403/"><img src="https://img.shields.io/badge/INSTAGRAM-0f8b8d?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:andrefellipe676@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0f8b8d?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9fellipe/"><img src="https://img.shields.io/badge/LINKEDIN-0f8b8d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/55SEU_DDD_E_NUMERO"><img src="https://img.shields.io/badge/WHATSAPP-0f8b8d?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD"><img src="https://img.shields.io/badge/DISCORD-0f8b8d?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://wa.me/+55 79 8867-3936"><img src="https://img.shields.io/badge/WHATSAPP-0f8b8d?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://discord.com/users/756490864645242880"><img src="https://img.shields.io/badge/DISCORD-0f8b8d?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 
 <br/>
