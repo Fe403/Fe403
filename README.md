@@ -28,7 +28,7 @@ Meu foco agora é ser Full Stack. Já me viro com HTML, CSS e JavaScript, també
 
 <!-- TROQUE SEU_INSTAGRAM pelo seu usuário, ou apague a linha do Instagram se não for usar -->
 <div align="center">
-  <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-0f8b8d?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/andre_fe403/"><img src="https://img.shields.io/badge/INSTAGRAM-0f8b8d?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:andrefellipe676@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0f8b8d?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9fellipe/"><img src="https://img.shields.io/badge/LINKEDIN-0f8b8d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
